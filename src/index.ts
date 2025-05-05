@@ -5,7 +5,7 @@ const allRoutes = new Hono();
 
 allRoutes.get("", (context) => {
   return context.json({
-    message: "Hello, World",
+    message: "Hello",
   });
 });
 

@@ -6,10 +6,7 @@
     "strict": true,
     "verbatimModuleSyntax": true,
     "skipLibCheck": true,
-    "types": [
-      "node"
-    ],
-   
+    "types": ["node"]
   },
   "exclude": ["node_modules"]
 }
